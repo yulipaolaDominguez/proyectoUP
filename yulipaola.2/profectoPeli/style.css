@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+    
+}
+.contenedor{
+    background-color: azure;
+    width: 40%;
+    margin: 0 auto;
+    height: 225px;
+    margin-top: 205px;
+}
+.formulario{
+    font-size: 20px;
+}
+header{
+    background-color: aqua;
+    width: 100%;
+    padding: 20px;
+}
+body{
+         background-image: url(
+            
+         ); background-repeat : no-repeat; background-attachment: fixed; background-size: 100% 100%; 
+}
